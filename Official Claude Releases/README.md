@@ -9,16 +9,15 @@ The status section below is updated by a daily GitHub Action.
 <!-- sync-status:start -->
 
 ### 🔄 Last sync
-- UTC: `2025-11-21 02:13 UTC`
-- Europe/Oslo: `2025-11-21 03:13 CET`
+- UTC: `2025-11-22 02:03 UTC`
+- Europe/Oslo: `2025-11-22 03:03 CET`
 
 ### ✅ Files updated this run
 
-- CHANGELOG.md (+6 / -1)
-- api.md (+3 / -0)
+- CHANGELOG.md (+8 / -1)
 - claude-apps.md (+2 / -2)
-- system-prompts.md (+214 / -0)
-- claude-code.md (+63 / -63)<!-- sync-status:end -->
+- claude-code.md (+56 / -56)<!-- sync-status:end -->
+
 
 
 
